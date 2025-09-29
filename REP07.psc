@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo REP07
 	Definir N, Suma Como Real
 	Definir I Como Entero
