@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo REP04
 	Definir N Como Entero
 	N <- 1
