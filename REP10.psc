@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo REP10
 	Definir i, sumaPares, sumaImpares, contPares, contImpares Como Entero
 	Definir mediaPares, mediaImpares Como Real
