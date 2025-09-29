@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo REP08
 	Definir i, suma Como Entero
 	i <- 1
@@ -6,5 +7,5 @@ Algoritmo REP08
 		suma <- suma+(i*i)
 		i <- i+1
 	Hasta Que i>100
-	Escribir 'La suma de los cuadrados de los 100 primeros números es: ', suma
+	Escribir 'La suma de los cuadrados de los 100 primeros nÃºmeros es: ', suma
 FinAlgoritmo
