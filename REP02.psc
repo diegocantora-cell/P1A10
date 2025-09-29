@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo REP01
 	Definir i Como Entero
 	i <- 1
