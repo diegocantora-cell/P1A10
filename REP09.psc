@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo REP09
 	Definir N, Suma Como Real
 	Definir I Como Entero
