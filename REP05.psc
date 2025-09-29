@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 Algoritmo REP05
 	Definir N, suma Como Entero
 	N <- 1
